@@ -20,27 +20,27 @@
 
 ### 视频详情页
 
-![](.\imgs\2.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/2.png)
 
 ### 视频播放页
 
-![](.\imgs\3.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/3.png)
 
 ### 视频上传界面
 
-![](.\imgs\4.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/4.png)
 
 ### 正在上传
 
-![](.\imgs\5.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/5.png)
 
 ### Filecoin/IPFS使用：
 
 **本项目中用户的个人视频与视频封面等图像资料均存储在IPFS/Filecoin中，并借助Web3.storage与Moralis进行信息的获取与钱包的登录等。**
 
-![](.\imgs\6.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/6.png)
 
-![](.\imgs\7.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/7.png)
 
 ## 运行指南
 
