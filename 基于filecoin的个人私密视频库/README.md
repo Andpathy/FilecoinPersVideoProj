@@ -16,7 +16,7 @@
 
 ### 可视化界面
 
-![](.\imgs\1.png)
+![](https://raw.githubusercontent.com/Andpathy/FilecoinPersVideoProj/main/%E5%9F%BA%E4%BA%8Efilecoin%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E5%BA%93/imgs/1.png)
 
 ### 视频详情页
 
